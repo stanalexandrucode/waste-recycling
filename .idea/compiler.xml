@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="waste-recycling" target="1.8" />
+      <module name="waste-recycling" target="10" />
     </bytecodeTargetLevel>
   </component>
 </project>
